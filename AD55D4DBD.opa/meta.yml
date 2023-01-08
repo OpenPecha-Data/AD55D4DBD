@@ -1,0 +1,22 @@
+id: AD55D4DBD
+title: Prayer to Rigdzin Jatsön Nyingpo
+type: translation
+pechas:
+- I885AF38C
+- IE6698814
+- I9C2C6C2F
+source_metadata:
+  languages:
+  - en
+  - es
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:39:01.249963
+  last_modified_at: 2023-01-04 12:39:01.249986
+  collections:
+  - Jatsön Nyingpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I885AF38C/2774: 538F
+  IE6698814/F220: 538F
+  I9C2C6C2F/E909: 538F
